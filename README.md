@@ -4,6 +4,8 @@
 
 * Start a Discord now with all the pre-class drills and resources before they disappear on Slack. The Slack that you use in the cohort will disappear at some point. If you want to keep the resources the instructor, TAs, and other students post, have someone create a Discord for the cohort, invite everyone, and put all the links in there. 
 
+* When working on assignments, commit early and often. Fix some code. Commit. Created a new page. Commit. It takes a little getting used to, especially as the early assignments can be simple. But learn to commit often. 
+
 * Trust the program. You're going to be ready to pull your hair out at times. They run over you with information. The class is a mile wide and an inch deep most of the time. You're not going to understand something, and the instructor moves on to the next section. It'll sink in eventually.  And by the end of class, even if you don't remember what something specific is or does, you will feel like you can code. 
 
 * After week three, when you go into Project 1 week, you'll definitely feel like things are going too fast. Don't freak out. Don't be too hard on yourself. You are exactly where you are supposed to be. It's okay to not know everything yet. You're not ever going to know everything. 
