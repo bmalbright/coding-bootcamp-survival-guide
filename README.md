@@ -26,11 +26,15 @@
 
 * There are so many resources for learning this and explaining that, articles to read, videos on YouTube, other docs, and the class videos that there isn't enough time in the day to watch/read/process it all. You're going to have to figure out what works for you. And sometimes you'll go back to one you don't normally use and see the answer. If it starts to overwhelm you, take a deep breath. 
 
-* There are going to be days where it's hard to focus, where the instructor talks a lot and you're not processing anything, where the class is on the same wavelength and starts cutting up in the chat. It happens. Pay attention as often as you can, but some days it's really hard. Don't worry about those days too much. Go back and watch the class videos if you need to. Do the activities. If you really needed to know that, you'll go back and get it. 
+* There are going to be days where it's hard to focus, where the instructor talks a lot and you're not processing anything, where the class is on the same wavelength and starts cutting up in the chat. It happens. Pay attention as often as you can, but some days it's really hard. Don't worry about those days too much. Go back and watch the class videos if you need to. Do the activities. If you really needed to know the content from that day, you'll go back and get it. 
 
 * Ask for help. If you are too proud to ask for help when you don't understand something, you're going to get left behind. The people who ask for help are going to get answers. If you suffer in silence, no one can help you. Asking questions means you were smart enough and humble enough to improve yourself and your understanding. Every question you ask will only make you a better coder. 
 
-* Everyone hated code quiz Except apparently Damien and Mat. Freaks. 
+* In project groups, push to a development branch. Review that as a group. When you agree everything works, then push the development to main. If you do this correctly, then you always have a working app in main. 
+
+* When your deploy fails, read the log carefully. Especially at your level, check for capitalization and spelling inconsistencies before you start breaking your code. Then check the log and look a the referenced code for things like unused variables, missing punctuation, or something missing in your package.json file. If the app worked locally, chances are it's just a small inconsistency somewhere that VS Code overlooked but Heroku or Netlify didn't like. Trust your code and read the logs to see exactly where the issue is. 
+
+* Everyone hated code quiz. Except apparently Damien and Mat. Freaks. 
 
 ### This is a work in progess. If you have an addition you'd like to suggest, contact me. 
 
@@ -38,7 +42,7 @@
 ### Nikki Dodge
 ### Jaime Martinez
 ### Chamo
-### Jayla De'nae
+### Jayla Newton
 ### Phillip Welch
 ### Ethan Cho
 ### Emilio Estevez
