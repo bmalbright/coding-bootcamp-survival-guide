@@ -18,7 +18,7 @@
 
 * Get a tutor early, and meet with them every week. If they aren't helping you, get a new tutor sooner rather than later. They should be guiding you through the homework giving you a path toward finishing it, among other things. You paid for it. Take advantage of it. If you are meeting with your tutor regularly, and getting on zoom at night with classmates, you should be able to get through the homework. 
 
-* Understand the keys to graduating bootcamp. Show up to class. Do the homework. Participate in the projects. It takes a lot of work, but it's doable if you're willing to work. Don't get paralyzed by details. An F is a grade that gets you to graduation. If you don't understand something fully now, you can revisit it after bootcamp. If you go down a rabbit hole and get behind on homework don't recover, you won't graduate. The certificate doesn't automatically mean you get a job, but it's a lot easier when you've successfully completed the program than just being able to say you finally figured out how to write a particular function with the best of them. 
+* Understand the keys to graduating bootcamp. Show up to class. Do the homework. Participate in the projects. It takes a lot of work, but it's doable if you're willing to work. Don't get paralyzed by details. An F is a grade that gets you to graduation. If you don't understand something fully now, you can revisit it after bootcamp. If you go down a rabbit hole and get behind on homework and don't recover, you won't graduate. The certificate doesn't automatically mean you get a job by any means, but it's a lot easier when you've successfully completed the program. 
 
 * Everyone hates code quiz. Just get through it. 
 
