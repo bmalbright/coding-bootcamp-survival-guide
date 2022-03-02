@@ -34,7 +34,7 @@
 
 * In project groups, push to a development branch. Review that as a group. When you agree everything works, then push the development to main. If you do this correctly, then you always have a working app in main. 
 
-* When your deploy fails, read the log carefully. Especially at your level, check for capitalization and spelling inconsistencies before you start breaking your code. Then check the log and look a the referenced code for things like unused variables, missing punctuation, or something missing in your package.json file. If the app worked locally, chances are it's just a small inconsistency somewhere that VS Code overlooked but Heroku or Netlify didn't like. Trust your code and read the logs to see exactly where the issue is. 
+* When your deploy fails, read the log carefully. Especially at your level, check for capitalization and spelling inconsistencies before you start breaking your code. Then check the log and look at the referenced code for things like unused variables, missing punctuation, or something missing in your package.json file. If the app worked locally, chances are it's just a small inconsistency somewhere that VS Code overlooked but Heroku or Netlify didn't like. Trust your code and read the logs to see exactly where the issue is. 
 
 * Everyone hated code quiz. Except apparently Damien and Mat. Freaks. 
 
