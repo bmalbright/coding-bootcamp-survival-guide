@@ -1,8 +1,8 @@
 # Coding Bootcamp Survival Guide
 
-### This is wisdom for surviving the full time Full Stack Coding Bootcamp offered by UT Austin (and other universities) as given from a group of students in the Fall 2021 cohort. Take this wisdom for what it is, which is observations from students fresh out of bootcamp. We hope this helps you. 
+### This is wisdom for surviving the full time Full Stack Coding Bootcamp offered by UT Austin (and other universities working through Trilogy/2U) as given from a group of students in the Fall 2021 cohort. Take this wisdom for what it is, which is observations from students fresh out of bootcamp. We hope this helps you. 
 
-* Start a Discord now with all the pre-class drills and resources before they disappear on Slack. The Slack that you use in the cohort will disappear at some point. If you want to keep the resources the instructor, TAs, and other students post, have someone create a Discord for the cohort, invite everyone, and put all the links in there. 
+* Create a way to save the resources the instructors and TAs put in Slack. That resource will go away at some point. Our cohort created a Discord. Some students put the resources in a Google doc. Bookmark sites and organize them. If you find something that helps you, find a way to save it because it can be hard to find it in the Slack channels again, and it may be gone already. 
 
 * When working on assignments, commit early and often. Fix some code. Commit. Created a new page. Commit. It takes a little getting used to, especially as the early assignments can be simple. But learn to commit often. 
 
@@ -26,7 +26,7 @@
 
 * You will be told to read the docs. Do that. It's good practice and you may find the answer. But understand that the docs aren't necessarily written by or for junior developers. You may be staring right at the answer and not understand. You may know it's the right answer, but feel like there isn't enough context in the doc for you to know how to use it properly. It'll happen. You just have to keep looking for the site that explains it in a way you understand. And sometimes you just have to try coding it and see what happens. 
 
-* There are so many resources for learning this and explaining that, articles to read, videos on YouTube, other docs, and the class videos that there isn't enough time in the day to watch/read/process it all. You're going to have to figure out what works for you. And sometimes you'll go back to one you don't normally use and see the answer. If it starts to overwhelm you, take a deep breath. 
+* There are so many resources for learning this and explaining that, articles to read, videos on YouTube, other docs, and the class videos, that there isn't enough time in the day to watch/read/process it all. You're going to have to figure out what works for you. And sometimes you'll go back to one you don't normally use and you'll see the answer. If it starts to overwhelm you, take a deep breath. It'll be alright.
 
 * There are going to be days where it's hard to focus, where the instructor talks a lot and you're not processing anything, where the class is on the same wavelength and starts cutting up in the chat. It happens. Pay attention as often as you can, but some days it's really hard. Don't worry about those days too much. Go back and watch the class videos if you need to. Do the activities. If you really needed to know the content from that day, you'll go back and get it. 
 
