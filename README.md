@@ -2,6 +2,8 @@
 
 ### This is wisdom for surviving the full time Full Stack Coding Bootcamp offered by UT Austin (and other universities working through Trilogy/2U) as given from a group of students in the Fall 2021 cohort. Take this wisdom for what it is, which is observations from students fresh out of bootcamp. We hope this helps you. 
 
+* If you have time before camp starts, begin doing exercises on FreeCodeCamp. You breeze through HTML and CSS in a week in bootcamp, so doing that beforehand will help you out. Also, even during bootcamp, getting some practice in on FreeCodeCamp (or whatever your preferred tutorial site might be) can help. The Javascript Algorithms and Data Structures is a good review as you go through the class and after. Sometimes you just need some repetition on things and that is not a bad place to get it. 
+
 * Create a way to save the resources the instructors and TAs put in Slack. That resource will go away at some point. Our cohort created a Discord. Some students put the resources in a Google doc. Bookmark sites and organize them. If you find something that helps you, find a way to save it because it can be hard to find it in the Slack channels again, and it may be gone already. 
 
 * When working on assignments, commit early and often. Fix some code. Commit. Created a new page. Commit. It takes a little getting used to, especially as the early assignments can be simple. But learn to commit often. 
@@ -35,6 +37,8 @@
 * In project groups, push to a development branch. Review that as a group. When you agree everything works, then push the development to main. If you do this correctly, then you always have a working app in main. 
 
 * When your deploy fails, read the log carefully. Especially at your level, check for capitalization and spelling inconsistencies before you start breaking your code. Then check the log and look at the referenced code for things like unused variables, missing punctuation, or something missing in your package.json file. If the app worked locally, chances are it's just a small inconsistency somewhere that VS Code overlooked but Heroku or Netlify didn't like. Trust your code and read the logs to see exactly where the issue is. 
+
+* If career services is offered with your bootcamp, take a look at the milestones before graduation, assuming you're not completely overwhelmed. When you actually look at them, they aren't too bad. 
 
 * Everyone hated code quiz. Except apparently Damien and Mat. Freaks. 
 
