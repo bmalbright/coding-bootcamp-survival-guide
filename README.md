@@ -8,6 +8,8 @@
 
 * When working on assignments, commit early and often. Fix some code? Commit. Created a new page? Commit. It takes a little getting used to, especially as the early assignments can be really simple. But learn to commit often. 
 
+* Start making your variable names a little longer than they need to be from the start. The early exercises can be really simple, but that also means that the names are simple. You start naming everything data. When you do that, sometimes you forget when you're looking at it whether data is just a variable name (it could be named 'poop'), or a protected keyword, and if you're confused by the material, you might just become more confused. Long variable names aren't a bad thing. And when you become a dev, you'll find variable names that are like sentences, describing exactly what it is. Make a little extra effort to make the names longer now to help you out later. 
+
 * Trust the program. You're going to be ready to pull your hair out at times. They run over you with information. The class is a mile wide and an inch deep most of the time. You're not going to understand something, and the instructor moves on to the next section. It'll sink in eventually.  And by the end of class, even if you don't remember what something specific is or does, you will feel like you can code. 
 
 * After week three, when you go into Project 1 week, you'll definitely feel like things are going too fast. Don't freak out. Don't be too hard on yourself. You are exactly where you are supposed to be. It's okay to not know everything yet. You're not ever going to know everything. If you aren't in a full time class, I'm guessing the same applies when you head into your first project.
